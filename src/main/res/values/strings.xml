@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="exit">Exit</string>
+    <string name="gui_demo_21l_7521">GUI_Demo 21L-7521</string>
+    <string name="back">Back</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="welcome_to_screen_1">Welcome To Screen 1</string>
+    <string name="welcome_to_screen_2">Welcome To Screen 2</string>
+    <string name="welcome_to_screen_3">Welcome To Screen 3</string>
+    <string name="username">username</string>
+    <string name="settings_symbol">settings_symbol</string>
+    <string name="dp">dp</string>
+    <string name="Posts">3431</string>
+    <string name="posts">Posts</string>
+    <string name="Followers">217</string>
+    <string name="followers">Followers</string>
+    <string name="Following">81</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="and_here_too">And Here Too...</string>
+    <string name="yoursite_com">Yoursite.com</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_bio_goes_here">Your Bio Goes Here...</string>
+
+</resources>
